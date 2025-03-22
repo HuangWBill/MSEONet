@@ -108,9 +108,9 @@ python tools/test.py --config configs/MSEONet_r101-d8_4xb4-80k_FLAIR1-512x512.py
  
 | Model      | Dataset            | Device  | Iterations | mIoU  | Log                                                 | checkpoint                                                                               |
 | :--------: | :----------------: | :-----: | :--------: | :---: | :-------------------------------------------------: | :--------------------------------------------------------------------------------------: |
-| MSEONet    | Potsdam_RGB_512    | RTX4090 | 80000      | 74.87 | [log](./log/MSEONet_Potsdam/20240123_081227.log)    | [download](https://zenodo.org/records/15068018/files/iter_80000_Potsdam.pth?download=1)  |
-| MSEONet    | Vaihingen_IRRG_512 | RTX4090 | 80000      | 69.77 | [log](./log/MSEONet_Vaihingen/20240120_001751.log)  | [download](https://zenodo.org/records/15068018/files/iter_80000_Vaihingen.pth?download=1)|
-| MSEONet    | FLAIR1_512         | RTX4090 | 80000      | 44.41 | [log](./log/MSEONet_FLAIR1/20240911_210131.zip)     | [download](https://zenodo.org/records/15068018/files/iter_80000_FLAIR1.pth?download=1)   |
+| MSEONet    | Potsdam_RGB_512    | RTX4090 | 80000      | 74.51 | [log](./log/MSEONet_Potsdam/20240123_081227.log)    | [download](https://zenodo.org/records/15068018/files/iter_80000_Potsdam.pth?download=1)  |
+| MSEONet    | Vaihingen_IRRG_512 | RTX4090 | 80000      | 70.08 | [log](./log/MSEONet_Vaihingen/20240120_001751.log)  | [download](https://zenodo.org/records/15068018/files/iter_80000_Vaihingen.pth?download=1)|
+| MSEONet    | FLAIR1_512         | RTX4090 | 80000      | 58.72 | [log](./log/MSEONet_FLAIR1/20240911_210131.zip)     | [download](https://zenodo.org/records/15068018/files/iter_80000_FLAIR1.pth?download=1)   |
 
 
 - **Results**
