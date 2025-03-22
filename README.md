@@ -35,7 +35,7 @@ ___________
 ___________
 
 ## News
-- [2024-4-3] The **models** have been released.
+- [2024-4-10] The **models** have been released.
 - [2025-4-01] The **codes** have been released.
 - [2025-3-19] The **paper** has been accepted by ***IEEE Transactions on Geoscience and Remote Sensing (TGRS)***.
 
