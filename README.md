@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Multi-Scale Semantic Segmentation of Remote Sensing Images Based on Edge Optimization</h1>
+<h1>Multiscale Semantic Segmentation of Remote Sensing Images Based on Edge Optimization</h1>
 
 <div>
     <h3><strong>MSEONet</strong></h3>
