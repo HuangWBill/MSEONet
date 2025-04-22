@@ -167,10 +167,10 @@ python tools/test.py --config configs/MSEONet_r101-d8_4xb4-80k_FLAIR1-512x512.py
 Please kindly cite the papers if this code is useful and helpful for your research: 
 ```
 @article{huang2025mseonet,
-  title = {Multi-Scale Semantic Segmentation of Remote Sensing Images Based on Edge Optimization},
+  title = {Multiscale Semantic Segmentation of Remote Sensing Images Based on Edge Optimization},
   author = {Huang, Wubiao and Deng, Fei and Liu, Haibing and Ding, Mingtao and Yao, Qi},
   journal = {IEEE Transactions on Geoscience and Remote Sensing},
-  volume = {},
+  volume = {63},
   number = {},
   pages = {1-13},
   year = {2025},
